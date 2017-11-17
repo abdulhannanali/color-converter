@@ -1,5 +1,7 @@
 # Color Converter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/abdulhannanali/color-converter.svg)](https://greenkeeper.io/)
+
 ![Color Converter Badge](https://api.travis-ci.org/abdulhannanali/color-converter.svg?branch=master)
 
 A simple microservice to convert the color from RGB to hex and vice versa.
